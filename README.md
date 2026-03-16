@@ -46,5 +46,5 @@ Widget-widget tersebut digunakan untuk membuat tampilan aplikasi serta mengatur 
 
 ## Tampilan HomePage
 
-<img width="620" height="877" alt="Screenshot 2026-03-16 225214" src="https://github.com/user-attachments/assets/a062c9f9-47f6-4490-9533-d036d6f3fc3e" />
-<img width="618" height="866" alt="Screenshot 2026-03-16 225228" src="https://github.com/user-attachments/assets/ad6fefc2-62c1-4cf2-9cd5-4f1009dc9597" />
+<img width="220" height="477" alt="Screenshot 2026-03-16 225214" src="https://github.com/user-attachments/assets/a062c9f9-47f6-4490-9533-d036d6f3fc3e" />
+<img width="218" height="466" alt="Screenshot 2026-03-16 225228" src="https://github.com/user-attachments/assets/ad6fefc2-62c1-4cf2-9cd5-4f1009dc9597" />
