@@ -19,3 +19,27 @@ Beberapa fitur yang tersedia pada aplikasi QuickWash antara lain:
 - Menghapus data pelanggan
 
 - Penyimpanan data menggunakan Supabase
+
+## Widget yang Digunakan
+
+Dalam pembuatan aplikasi QuickWash, digunakan beberapa widget Flutter seperti berikut:
+
+- MaterialApp
+
+- Scaffold
+
+- AppBar
+
+- TextField
+
+- ElevatedButton
+
+- ListView
+
+- Card
+
+- Text
+
+- IconButton
+
+Widget-widget tersebut digunakan untuk membuat tampilan aplikasi serta mengatur interaksi pengguna saat mengelola data pelanggan.
