@@ -1,6 +1,6 @@
 # MinProPAB2
 
-##Tentang Aplikasi
+## Tentang Aplikasi
 
 QuickWash adalah aplikasi mobile yang dibuat menggunakan Flutter untuk membantu mengelola data pelanggan laundry. Aplikasi ini terhubung dengan Supabase sebagai database, sehingga data bisa disimpan dan diakses dengan lebih mudah.
 
