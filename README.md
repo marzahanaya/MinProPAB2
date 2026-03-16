@@ -6,3 +6,16 @@ QuickWash adalah aplikasi mobile yang dibuat menggunakan Flutter untuk membantu 
 
 Melalui aplikasi ini, pengguna bisa menambahkan data pelanggan, melihat daftar pelanggan yang sudah tersimpan, mengubah data jika ada yang perlu diperbaiki, serta menghapus data yang sudah tidak digunakan. Dengan adanya aplikasi ini, proses pendataan pelanggan laundry menjadi lebih rapi dan lebih mudah dikelola.
 
+## Fitur Aplikasi
+
+Beberapa fitur yang tersedia pada aplikasi QuickWash antara lain:
+
+- Menambahkan data pelanggan laundry
+
+- Menampilkan daftar pelanggan
+
+- Mengedit atau memperbarui data pelanggan
+
+- Menghapus data pelanggan
+
+- Penyimpanan data menggunakan Supabase
