@@ -48,3 +48,8 @@ Widget-widget tersebut digunakan untuk membuat tampilan aplikasi serta mengatur 
 
 <img width="220" height="477" alt="Screenshot 2026-03-16 225214" src="https://github.com/user-attachments/assets/a062c9f9-47f6-4490-9533-d036d6f3fc3e" />
 <img width="218" height="466" alt="Screenshot 2026-03-16 225228" src="https://github.com/user-attachments/assets/ad6fefc2-62c1-4cf2-9cd5-4f1009dc9597" />
+
+## Tampilan Menu Tambah Pelanggan
+
+<img width="613" height="875" alt="Screenshot 2026-03-16 224706" src="https://github.com/user-attachments/assets/8616cfd6-7642-41eb-87cc-5c7fbab956da" />
+<img width="609" height="873" alt="Screenshot 2026-03-16 224716" src="https://github.com/user-attachments/assets/83da8037-735c-4c00-ad62-1c85278988f1" />
